@@ -15,6 +15,7 @@ This repository contains my professional certifications in cybersecurity, networ
 ## TryHackMe
 - Advent of Cyber
 - Web Fundamentals
+- Pre Security
 
 ## LTUC
 - Cybersecurity Training Program
